@@ -8,7 +8,7 @@ I'm a WHU-RS students who have great passion on zen,algorithm and innovation ide
 
 I will be an outstanding entrepreneur and a metaverse-software coder in the near future. :snowboarder:
 
-I'm learning image processing and software development in Java now. :anchor:
+I'm learning image processing and software development now. :anchor:
 
 ### About my Github
 
