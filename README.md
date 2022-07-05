@@ -2,7 +2,6 @@
 
 ### About me
 
-https://lazyot.github.io/
 
 I'm a WHU-RS students who have great passion on zen,algorithm and innovation idea. :telescope:
 
