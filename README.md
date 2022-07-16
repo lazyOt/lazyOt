@@ -7,7 +7,7 @@ I'm a WHU-RS students who have great passion on zen,algorithm and innovation ide
 
 I will be an outstanding entrepreneur and a metaverse explorer in the near future. :snowboarder:
 
-I'm learning 3D vision now. :anchor:
+I'm learning 3D vision and Deep Learning now. :anchor:
 
 ### About my Github
 
