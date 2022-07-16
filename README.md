@@ -5,9 +5,9 @@
 
 I'm a WHU-RS students who have great passion on zen,algorithm and innovation idea. :telescope:
 
-I will be an outstanding entrepreneur and a metaverse-software coder in the near future. :snowboarder:
+I will be an outstanding entrepreneur and a metaverse explorer in the near future. :snowboarder:
 
-I'm learning image processing and software development now. :anchor:
+I'm learning 3D vision now. :anchor:
 
 ### About my Github
 
